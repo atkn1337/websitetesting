@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## im testing github pages
 
-You can use the [editor on GitHub](https://github.com/atkn1337/websitetesting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+idk its cool i think :)
+[cool](http://atkn1337.github.io/websitetesting)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
